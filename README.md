@@ -1,6 +1,4 @@
-## Payload release dynamics with UAV not
-
-## moving in the direction of wind.
+## Payload release dynamics with UAV not moving in the direction of wind.
 
 The following documentation describes the payload trajectory when the payload is dropped from
 moving UAV. This documentation assumes that the UAV is not moving along the direction of
