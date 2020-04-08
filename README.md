@@ -9,3 +9,5 @@ The data we know beforehand:
 - Velocity of wind in east direction
 - Current coordinate of UAV
 - Target coordinate of UAV
+
+The code you should see is #'payload_drop_relative.m'
